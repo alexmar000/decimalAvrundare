@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\Runda\Runda\bin\Debug\netcoreapp3.1\Runda.exe
+C:\Users\Alex\source\repos\Runda\Runda\bin\Debug\netcoreapp3.1\Runda.deps.json
+C:\Users\Alex\source\repos\Runda\Runda\bin\Debug\netcoreapp3.1\Runda.runtimeconfig.json
+C:\Users\Alex\source\repos\Runda\Runda\bin\Debug\netcoreapp3.1\Runda.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Runda\Runda\bin\Debug\netcoreapp3.1\Runda.dll
+C:\Users\Alex\source\repos\Runda\Runda\bin\Debug\netcoreapp3.1\Runda.pdb
+C:\Users\Alex\source\repos\Runda\Runda\obj\Debug\netcoreapp3.1\Runda.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Runda\Runda\obj\Debug\netcoreapp3.1\Runda.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Runda\Runda\obj\Debug\netcoreapp3.1\Runda.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Runda\Runda\obj\Debug\netcoreapp3.1\Runda.dll
+C:\Users\Alex\source\repos\Runda\Runda\obj\Debug\netcoreapp3.1\Runda.pdb
